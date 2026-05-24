@@ -1,4 +1,3 @@
-# Starting from The Hub — Practical Route to the Squin-Side HQ
 
 ## Objective
 
@@ -64,7 +63,7 @@ Squin is a stronger support town than The Hub for this plan. It gives you access
 
 | Priority | Action | Why it matters | Recommended timing |
 |---:|---|---|---|
-| 1 | Recruit early Shek-compatible fighters if available | You need bodies before long travel and base building. | Immediately after stabilising in Squin |
+| 1 | Recruit early Shek-compatible fighters if available | Prioritise named unique recruits if they appear: **Ruka** (free), **Kang** (paid), **Rane the Giant** (paid), and **Oron** (paid). | Immediately after stabilising in Squin |
 | 2 | Mine copper/iron near Squin | Money, Labouring, Strength and early economy. | First few in-game days |
 | 3 | Buy backpacks | Efficient hauling and mining. | As soon as affordable |
 | 4 | Buy a house in Squin if possible | Safer than an outpost; supports storage and research. | Before founding HQ |
@@ -135,15 +134,28 @@ Do **not** found the HQ just because you have found the location. Found it when 
 
 ## Early recruitment while based from Squin
 
-This is the practical approach while Team 1 is still incomplete.
+This is the practical approach while Team 1 is still incomplete. When a recruit is a **named unique recruit**, the name is listed explicitly so you can recognise them in bars or during the relevant rescue/alignment route.
 
-| Route priority | Recruit type | Where to hold them | Why |
-|---:|---|---|---|
-| 1 | Early fighters near Squin | Squin | They help protect mining/scouting trips. |
-| 2 | Early workers / medics | Squin house if owned; otherwise keep with group | They should not be dragged into dangerous long-distance fights unnecessarily. |
-| 3 | Turret/defence recruits | Squin until HQ walls exist | They become valuable once turrets/gates exist. |
-| 4 | Beep / Mongrel recruits | Return them to Squin before HQ build if weak | Do not overextend into Fog Islands repeatedly with a fragile squad. |
-| 5 | Anti-Slaver / Bo route | Much later | Do not trigger UC/Trader hostility until UC-area recruitment and shopping are done. |
+| Route priority | Recruit type | Unique recruits to look for | Likely location / route | Where to hold them | Why |
+|---:|---|---|---|---|---|
+| 1 | Early free/cheap Shek bodies | **Ruka** *(free)*, **Oron** *(paid)* | **Squin**, **Admag** or **Last Stand** | Squin, or keep Ruka with you if you need protection | Ruka is one of the best early free recruits. Oron is not elite, but is convenient if found while you are already checking Shek bars. |
+| 2 | Early Team 1 fighters | **Kang**, **Rane the Giant** | **Squin**, **Admag** or **Last Stand** | Keep with Team 1 | These are high-priority early combat upgrades and make future travel much safer. |
+| 3 | Opportunistic free worker | **Hobbs** | **The Hub**, **Waystations**, **World's End**, **Fishing Village** or **Mourn** | Squin house if owned; otherwise keep safe with the group | Free general worker. Pick him up if he appears early, but do not waste days rerolling bars for him. |
+| 4 | Early workers / medics | **Izumi**, **Doctor Chung**, **Cat**, **Jewel**, **Miu**, **Green Finger**, **Soman** | Mostly later city-route recruitment rather than Squin itself | Squin house first, then HQ once walls/storage exist | These should not be dragged into dangerous long-distance fights unnecessarily. Collect them when your route naturally reaches their towns. |
+| 5 | Turret/defence recruits | **Green**, **Headshot**, **Stubs Momuso**, **Hamut**, **Crumblejon**, **Ray**, **Sinklyde**, **Knife**, **Silvershade** | Later route through Swamp, Mongrel, UC / Great Desert and other towns | Squin until HQ walls and turret positions exist | They become valuable once gates and turrets exist; before then they are extra mouths to feed. |
+| 6 | Beep / Mongrel recruits | **Beep**, **Infinite Wingwang**, **Crumblejon** | **Mongrel** in the Fog Islands | Return them to Squin before HQ build if weak | Do not overextend into Fog Islands repeatedly with a fragile squad. Go once prepared, collect several recruits, then leave. |
+| 7 | Anti-Slaver / Bo route | **Bo** | **Black Scratch**, after Anti-Slaver alignment and required anti-slavery action | Keep with Team 1 after recruitment | Do not trigger UC/Trader hostility too early. Complete UC-area recruitment, shopping and preparation before committing to Bo's route. |
+
+### Squin-area unique recruit priority
+
+| Priority | Unique recruit | Team fit | Why to recruit now | Notes |
+|---:|---|---|---|---|
+| 1 | **Ruka** | Team 3 initially, or temporary Team 1 support | Free recruit and useful early combat body | Check Shek bars. If she appears, take her immediately. |
+| 2 | **Kang** | Team 1 | One of the strongest early practical combat recruits | Paid recruit; worth prioritising once you have the cats. |
+| 3 | **Rane the Giant** | Team 1 | Strong Shek fighter who helps stabilise the adventuring squad | Paid recruit; pair with Kang if funds allow. |
+| 4 | **Oron** | Team 3 | Convenient local defender / patrol recruit | Paid, lower priority than Kang/Rane. |
+| 5 | **Hobbs** | Team 2 | Free labour/general worker if he happens to spawn nearby | Can appear in The Hub, so check before leaving, but do not delay the whole plan for him. |
+
 
 ---
 
@@ -212,4 +224,5 @@ These day ranges are indicative only. If the run is harsh, delay the HQ. Kenshi 
 - Steam Community discussion — early Hub/Squin copper mining and storage: https://steamcommunity.com/app/233860/discussions/0/7260435610015009942/
 - Steam Community guide — Roadmap for New Players and Basebuilding: https://steamcommunity.com/sharedfiles/filedetails/?id=1576181991
 - Kenshi Interactive Map: https://www.kenshimap.com/
+- Kenshi Wiki — Unique Recruits: https://kenshi.fandom.com/wiki/Unique_Recruits
 
